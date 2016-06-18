@@ -1,0 +1,6 @@
+# file endings 
+*.swp
+#the whole build directory
+build/*
+# vim session
+Session.vim

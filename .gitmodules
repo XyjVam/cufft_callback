@@ -1,0 +1,6 @@
+[submodule "external/cmake_FindCUDA"]
+	path = external/cmake_FindCUDA
+	url = https://github.com/XyjVam/cmake_FindCUDA.git
+[submodule "external/criterion"]
+	path = external/criterion
+	url = https://github.com/Snaipe/Criterion.git
