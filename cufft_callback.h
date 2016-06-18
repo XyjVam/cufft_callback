@@ -82,9 +82,9 @@
 #include <cufft.h>
 #include <cufftXt.h>
 #include <cuComplex.h>
-#include "cumgpu/core/gpu/cuerror.h"
+#include "cuerror.h"
 
-namespace cumgpu
+namespace cufftcallback
 {
 
 static  std::vector<cufftCallbackStoreC> storeCallbackVec;

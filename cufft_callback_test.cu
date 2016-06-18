@@ -5,7 +5,7 @@
 #include <criterion/criterion.h>
 #include <criterion/logging.h>
 
-using namespace cumgpu;
+using namespace cufftcallback;
 
 // used with custom type
 /********************************/
